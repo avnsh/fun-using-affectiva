@@ -45,7 +45,7 @@ const myChart = new Chart(ctx, {
     }
 });
 let periodicEmotion = null;
-const emotionSamplingPeriod = 10;
+const emotionSamplingPeriod = 20;
 
 /*
    Face detector configuration - If not specified, defaults to
