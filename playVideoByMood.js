@@ -1,10 +1,10 @@
 const moodToQueryMap = {
-    anger: '',
-    disgust: '',
-    fear: 'hanuman chalisa',
+    anger: 'In the Wee Small Hours of the Morning',
+    disgust: 'Strawberry Fields Forever',
+    fear: 'Trust in You',
     joy: 'uptown funk',
     sadness: 'my heart will go on',
-    surprise: '',
+    surprise: 'Bob Dylan Greatest Hits',
 };
 const apiKey = "AIzaSyDBPzjEDZK_ZGOZcYQT7lm0VTdzjp5w95w";
 const content = document.getElementById('content');
